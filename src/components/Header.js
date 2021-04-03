@@ -4,10 +4,8 @@ export default function Header({searchCoin}) {
   return (
     <header style={{
       display: "flex",
-      width: '80%',
-      margin: '0 auto',
+      margin: '20px auto',
       alignItems: 'center',
-      marginBottom: '20px',
     }}>
       <h1 style={{marginRight: "auto"}}>거래 현황</h1>
       <div className="search">

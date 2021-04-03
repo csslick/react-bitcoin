@@ -1,3 +1,23 @@
 .App {
   text-align: center;
 }
+
+main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header h1 {
+  font-size: 30px;
+}
+tbody tr:last-child{
+  /* display: none; */
+}
+
+th { 
+  font-size: 15px;
+}
+
+td{ 
+  font-size: 13px;
+}
